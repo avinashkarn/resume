@@ -1,134 +1,78 @@
-I am a PhD candidate in bioinformatics, a first class honours graduate in computer engineering, a computer and electronics enthusiast, an open-source software developer and advocate, an avid traveller, a hiker, a singer, and an experimental cook. I have fifteen years of industry and academic experience developing software in C++ and a variety of scripting languages, including nine years developing high-performance distributed and parallel algorithms for genome sequence assembly, and six years developing embedded and real-time control systems. I have extensive experience developing portable software for POSIX systems such as Linux and macOS. When developing performance-critical software, I understand the hardware from the transistor up.
+I am a plant quantitative geneticits and computational biologist, and digital agriculture and robotics enthusiast, and an amateur astronomer, painter, online blogging, photography and vivid cook. I have over ten years of research experience in the field of plant breeding, quantitative genetics and high-throughput phenotyping, including, I have developed statistical models to non-destructively phenotype various seed composition using near infrared reflectance spectroscopy (NIRS) and nuclear magnetic resonance (NMR) instruments. I have developed gene specific molecular markers for marker selection studies and prepared RAD Genotype-By-Sequencing libraries for NextGen sequencing with failure rate of < 0.05% and called SNPs using TASSEL and Sentioen pipeline, and built genetic maps using SNP and haplotype based genetic maps, and conducted joint-linkage QTL mapping and genome wide association studies. I have strong knowledge and experience in conducting big data analysis and visualization especially on a large set of phenotypic and genotypic data in software such as MS Excel, TASSEL, R and SAS and CIRCOS (written in PERL).
 
 ## Education
 
-#### 2012–present—Bioinformatics PhD Candidate—University of British Columbia
+#### 2012–2017 PhD - Plant Breeding, Genetics & Genomics — University of Missouri Columbia, USA
+•	Dissertation - ***Evaluation of Teosinte Genetic Diversity for Agronomic and Domestication Traits in Maize***
+•	Received Dr. Marcus Zuber endowment fellowship
+•	Presented research at Maize genetics conference, Plant Animal Genetics conference and The Tri-Societies meeting (ASA, CSSA, SSSA)     International meetings
+•	Recipient of 2017 Research in Plant Biology Award (Monetary award $750) and 2017 MU Life Sciences Week Research Recognition award (Monetary award $275)
+•	Recipient of DPS and IPG travel awards
 
-NSERC CGS-M and CGS-D scholarship student in bioinformatics. Coursework
-in bioinformatics, statistics, machine learning, and genetics.
-GPA 4.26 (93%)
+#### 2008–2012 BSc Agricultural Sciences — Truman State University, USA
 
-#### 1998–2004—BASc Computer Engineering—Simon Fraser University
-
-First class honours cholarship student in computer engineering. Completed an honours undergraduate thesis and two full years of co-op work experience at
-three companies. GPA 3.85
+•	Received President’s Honorary Scholarship and Dr. Max E. Bell Scholarship
+•	Presented research at student research conferences at Truman, Adair County extension center and annual Maize genetics conference
 
 ## Work Experience
 
-#### 2008–2012—Computational biologist—BC Cancer Genome Sciences Centre
+#### 2018–Present Computational biologist (Postdoc) — Cornell University, Geneva, NY
+Analyzed of large-scale genotyping data (from Genotyping-by-Sequencing, Amplicon Sequencing, Illumina resequencing, and/or PacBio de novo sequencing) such as SNP and Haplotype calling. Developed genetic markers for traits like powdery mildew disease resistance and fruit quality, to assist breeders with marker assisted selection; conducted statistical analysis of large-scale data sets from DNA sequencing and trait data from related and unrelated vines for genetic mapping in Lep-MAP3, QTL mapping in R, genome wide association studies in TASSEL/FarmCPU/GAPIT. Managed grapevine breeding database www.VitisBase.org , and led setting up trials and phenotype data collection on Field Book android application.
 
-Developed the genome sequence assembly software package, ABySS. This
-heavily parallel and distributed software system, which uses both MPI
-and OpenMP for parallel computation, was the first system to assemble
-a human genome using short-read sequencing technology.
+#### 2017 May–2017 Dec Quantitative Geneticist (Postdoc) — University of Illinois - Urbana-Champaign, IL
 
-#### 2004–2007—Embedded firmware developer—Pathway Connectivity Inc.
+Led and managed undergraduate students and technicians in the installation of over 2,000 minirhizotron tubes in field to image and study maize roots with Bartz imaging systems; and collections of minirhizotron images, moisture data, flowering, above ground biomass and yield harvest. Identified genetics basis for maize root structure and control of plant nutrient relations in Illinois Protein Strain Recombinant Inbred (IPSRI) lines of maize
 
-Developed the firmware for Pathway's product line of small, low-cost lighting control devices. These small devices, which use Atmel's AVR and ARM microcontrollers, convert between a variety of lighting-control protocols. Modernized the lighting control industry in developing a device to adapt legacy lighting control equipment to Ethernet. This industry-changing product, the Pathport, won an award for best new product at the industry trade show, Lighting Dimensions International.
+#### 2012—2017 Graduate Research Assistant (PhD) - University of Missouri Columbia, USA
 
-#### 2002 May—Co-op work experience—Vortek Industries Ltd.
+Involved in the development of novel genetic resource and mapping populations such as near isogenic and synthetic lines derived from domesticated corn and its wild relative, Teosinte. Conducted Joint linkage QTL analysis and Genome wide association study to elucidate several aspects of genetic diversity in maize; genetic basis of various agronomic, fitness and yield related traits such as seed quality and composition in trials conducted with multiple replications in different environment and year. Investigated gene by gene epistatic interactions for various adaptation and domestication related traits in trials with multiple replications and environment.
 
-Worked on the rapid thermal processing tool used in the manufacturing
-of semiconductor devices. Developed the temperature sensor and lamp
-power control system using the QNX real-time operating system.
+#### 2009-2012 Undergraduate Research Assistant (BSc) - Truman State University, USA
+Conducted molecular genetic analysis to exploit the biodiversity of exotic inbred lines from Central and South America to develop high amylose corn using SSR markers and gel electrophoresis. Assisted in preparing summer maize nurseries such as plowing field with a tractor, planting seeds with hand and dumping seed in seed planter, pollinating and collecting various agronomic data from field trials, harvesting and analyzing data. Developed gene specific molecular markers to select alleles responsible for high amylose in maize kernels with better yield, which I validated their stability in trials conducted in multiple replications in different environments. Wrote annual USDA-ARS Germplasm Enhancement of Maize (GEM) report and presented at ASTA meeting in Chicago, Illinois 
 
-## Volunteer Experience
+#### 2008-2012 Cafeteria student worker - Sodexo Inc. 
+Served and stocked food as well as performed all the cleaning related activities in the cafeteria.
 
-#### 2002–present—Open-source developer
+#### 2011-2012 Comparative genomics researcher - Truman State University, USA
+Analyzed retained homeologous paralog pairs from syntenic regions in Maize and Sorghum. Visualized genomic data of approximately 1Mb in size in CIRCOS, and conducted comparative genetic study in online tools such as GeVo function of CoGe, Annotated genes using InterProScan and expression analysis data from Plexdb.org 
 
-Maintain open-source bioinformatics software packages for Homebrew and Linuxbrew. Lead developer of Linuxbrew, the Homebrew package manager for Linux.
+#### Summer 2009 & 2012 NSF TruScholars Research Program - Truman State University, USA
+Designed gene specific molecular marker for a novel of starch branching enzyme Ia (SBE-1a) allele involved in high amylose starch in maize. Discovered novel recessive starch branching enzyme 1a (sbe1a) likely plays a significant role in the presence of the ae allele in elevating starch amylose from ~55% to >70% in the germplasm release 'GEMS-0067'. Conducted linkage based mapping studies to identify QTLs for high amylose starch in maize using SSR markers and QTL cartographer software. Sequenced starch branching enzyme allele (SBE1a) from high amylose maize line, GEMS-0067; Discovered 8bp insertion site at intron 9 resulting splicing mutation, which putatively resulted in truncated protein product post-translation.
 
-## Selected Publications
+## Publications
 
 A selection of 12 of 30 peer-reviewed publications, h-index of 21, and over 7,000 citations
 
-#### Tigmint: Correcting assembly errors using linked reads from large molecules
-Jackman SD, Coombe L, Chu J, *et al.*
-(2018)
-*BMC Bioinformatics*
+#### A rhAmpSeq haplotype strategy targeting the collinear core genome improves marker transferability across a diverse genus
+Cheng Zou*, **Avinash Karn**, Bruce Reisch, Allen Nguyen, Yongming Sun, Yun Bao, Michael S. Campbell, Deanna Church, Stephen Williams, Timothy P. L. Smith, Anne Fennell, Doreen Ware, Jason Londo, Qi Sun    and Lance Cadle-Davidson  , *et al.*
+(2018) (In review)
+*Nature Biotechnology*
 
-#### ABySS 2.0: Resource-efficient assembly of large genomes using a Bloom filter
-**Jackman SD**, Vandervalk BP, Mohamadi H, Chu J, Yeo S, Hammond SA, Jahesh G, Khan H, Coombe L, Warren RL, et al.
-(2017)
-*Genome Research*
+#### Computational analysis of AmpSeq data for targeted, high-throughput genotyping of amplicons 
+Jonathan Fresnedo-Ramírez , Shanshan Yang , Qi Sun, **Avinash Karn** , Bruce I. Reisch, Lance Cadle-Davidson (2018) (Accepted)
+*Frontiers in Plant Sciences*
 
-#### Organellar Genomes of White Spruce (*Picea glauca*): Assembly and Annotation
-**Jackman SD**, Warren RL, Gibb EA, Vandervalk BP, Mohamadi H, Chu J, Raymond A, Pleasance S, Coope R, Wildung MR, et al.
-(2015)
-*Genome Biology and Evolution*
+#### Genome-Wide Association Study (GWAS) and Linkage Mapping Reveal a Major QTL Underlying Acylated Anthocyanin Levels in Grapevine Hybrid Families
+**Avinash Karn**, Shanshan Yang, Cheng Zou, Fred Gouker, Jonathan Fresnedo-Ramírez, Qi Sun, Jason Londo, Bruce I. Reisch, Gavin Sacks, and Lance Cadle-Davidson  (In preparation)
 
-#### Improved white spruce (*Picea glauca*) genome assemblies and annotation of large gene families of conifer terpenoid and phenolic defense metabolism
-Warren RL, Keeling CI, Yuen MMS, Raymond A, Taylor GA, Vandervalk BP, Mohamadi H, Paulino D, Chiu R, **Jackman SD**, et al.
-(2015)
-*The Plant Journal*
+#### Genetic Analysis of Teosinte Alleles for Kernel Composition Traits in Maize 
+**Karn, Avinash**, Gillman, J. D., & Flint-Garcia, S. A. (2017) 
+*G3: Genes, Genomes, Genetics*
 
-#### UniqTag: Content-Derived Unique and Stable Identifiers for Gene Annotation
-**Jackman SD**, Bohlmann J, Birol İ.
-(2015)
-*PLOS ONE*
+#### Development of Rigorous Fatty Acid Near-Infrared Spectroscopy Quantitation Methods in Support of Soybean Oil Improvement.
+**Karn, Avinash**, Heim, C., Flint-Garcia, S., Bilyeu, K., & Gillman, J. (2016)
+*Journal of the American Oil Chemists*
 
-#### Assembling the 20 Gb white spruce (*Picea glauca*) genome from WGSS data
-I Birol, A Raymond, **SD Jackman**, et al.
-(2013)
-_Bioinformatics_
-
-#### Draft genome of the mountain pine beetle, *Dendroctonus ponderosae* Hopkins
-CI Keeling, MM Yuen, NY Liao, TR Docking, SK Chan, GA Taylor, DL Palmquist, **SD Jackman**, et al.
-(2013)
-_Genome Biology_
-
-#### De novo assembly and analysis of RNA-seq data
-G Robertson, J Schein, R Chiu, R Corbett, M Field, **SD Jackman** et al.
-(2010)
-_Nature Methods_
-
-#### Assembling genomes using short-read sequencing technology
-**SD Jackman** and I Birol
-(2010)
-_Genome Biology_
-
-#### De novo transcriptome assembly with ABySS
-I Birol, **SD Jackman**, CB Nielsen et al.
-(2009)
-_Bioinformatics_
-
-#### ABySS-Explorer: visualizing genome sequence assemblies
-CB Nielsen, **SD Jackman**, I Birol et al.
-(2009)
-_IEEE Transactions on Visualization and Computer Graphics_
-
-#### ABySS: a parallel assembler for short read sequence data
-JT Simpson, K Wong, **SD Jackman** et al.
-(2009)
-_Genome Research_
+#### Breeding Specialty Starch Maize Using Exotic Genetic Resources for Gene Discovery of Novel Alleles and Modifiers with Materials Generated from the USDA-ARS GEM Project  (2011)
+**Karn, Avinash**, Brent Buckner, Diane Janick-Buckner, Mark Campbell, Michael Blanco, Marvin Scott, and Adrienne Moran Lauter .
+*Maize Genetics Conference Abstracts*
 
 ## Knowledge
 
-#### Bioinformatics
-
-Techniques for analysis of whole-genome shotgun sequencing and RNA-seq, including *de novo* sequence assembly, sequence alignment, variant calling, genome annotation, and visualization and inspection of genome assemblies, variants, and rearrangements.
-
 #### Programming languages
 
-C++, C, R, Python, Ruby, shell, and assembly.
-
-#### Parallel processing
-
-OpenMP, MPI, and POSIX threads.
+R, SAS, PERL, HTML, MS Command prompt and Excel.
 
 #### Operating systems
 
-macOS, Debian, Ubuntu, and other GNU/Linux distributions.
-
-## Awards
-
-#### University of British Columbia
-
-* 2013-2018 Natural Sciences and Engineering Research Council of Canada (NSERC)
-  Canada Graduate Scholarship (CGS-M and CGS-D)
-* 2012–2013 CIHR/MSFHR Strategic Training Program in Bioinformatics
-
-#### Simon Fraser University
-
-* 1999–2004 Open Undergraduate Scholarship
-* 1998–1999 Tadeusz Specht Memorial Entrance Scholarship in Science
+Linux and Windows.
