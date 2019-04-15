@@ -3,7 +3,7 @@ I am a plant quantitative geneticits and computational biologist, and digital ag
 ## Education
 
 #### 2012–2017 PhD - Plant Breeding, Genetics & Genomics — University of Missouri Columbia, USA
-•	Dissertation - ***Evaluation of Teosinte Genetic Diversity for Agronomic and Domestication Traits in Maize***
+•	Dissertation ***Evaluation of Teosinte Genetic Diversity for Agronomic and Domestication Traits in Maize***
 Received Dr. Marcus Zuber endowment fellowship
 Presented research at Maize genetics conference, Plant Animal Genetics conference and The Tri-Societies meeting (ASA, CSSA, SSSA)     International meetings
 Recipient of 2017 Research in Plant Biology Award (Monetary award $750) and 2017 MU Life Sciences Week Research Recognition award (Monetary award $275)
@@ -41,7 +41,7 @@ Designed gene specific molecular marker for a novel of starch branching enzyme I
 ## Publications
 
 #### A rhAmpSeq haplotype strategy targeting the collinear core genome improves marker transferability across a diverse genus
-Cheng Zou*, *Avinash Karn*, Bruce Reisch, Allen Nguyen, Yongming Sun, Yun Bao, Michael S. Campbell, Deanna Church, Stephen Williams, Timothy P. L. Smith, Anne Fennell, Doreen Ware, Jason Londo, Qi Sun and Lance Cadle-Davidson
+Cheng Zou, *Avinash Karn*, Bruce Reisch, Allen Nguyen, Yongming Sun, Yun Bao, Michael S. Campbell, Deanna Church, Stephen Williams, Timothy P. L. Smith, Anne Fennell, Doreen Ware, Jason Londo, Qi Sun and Lance Cadle-Davidson
 (2018) (In review)
 *Nature Biotechnology*
 
