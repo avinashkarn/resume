@@ -76,7 +76,14 @@ Linux and Windows.
 
 
 
-<div class="text-left"style="max-width:95%"  style="color: #777; margin: 3em 0;">
-   <p><script type="text/javascript" src="//ra.revolvermaps.com/0/0/6.js?i=0rn8vq73z9x&amp;m=7&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=1" async="async"></script></p>
-   <p><a href='https://clustrmaps.com/site/19td3'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=350&t=n&d=bCuufz8Kcf7QFZCPXJ5nFl4FQopiTSwzVgE6TqE7VYs' /></a></p>
-</div>
+<p><script type="text/javascript" src="//ra.revolvermaps.com/0/0/6.js?i=0rn8vq73z9x&amp;m=7&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=1" async="async"></script></p>
+<p><a href='https://clustrmaps.com/site/19td3'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=350&t=n&d=bCuufz8Kcf7QFZCPXJ5nFl4FQopiTSwzVgE6TqE7VYs' /></a></p>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-123359651-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-123359651-1');
+</script>
