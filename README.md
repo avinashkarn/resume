@@ -74,4 +74,9 @@ R, SAS, PERL, HTML, MS Command prompt and Excel.
 
 Linux and Windows.
 
-#### THANKS! 
+
+
+<div class="text-left"style="max-width:95%"  style="color: #777; margin: 3em 0;">
+   <p><script type="text/javascript" src="//ra.revolvermaps.com/0/0/6.js?i=0rn8vq73z9x&amp;m=7&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=1" async="async"></script></p>
+   <p><a href='https://clustrmaps.com/site/19td3'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=350&t=n&d=bCuufz8Kcf7QFZCPXJ5nFl4FQopiTSwzVgE6TqE7VYs' /></a></p>
+</div>
