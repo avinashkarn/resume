@@ -74,42 +74,34 @@ R, SAS, PERL, HTML, MS Command prompt and Excel.
 
 Linux and Windows.
 
-    <div class="container">
+<div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
                 <h2 class="section-heading">Let's Get In Touch!</h2>
                 <hr class="primary">
                 <p>If you have any question, suggestion or comment, please contact me by</p>
-            </div>
+</div>
             
-        <div class="col-lg-2 col-lg-offset-1 text-center">
+<div class="col-lg-2 col-lg-offset-1 text-center">
             <a href="https://www.linkedin.com/in/avikarn/" target="_blank">
                 <i class="fa fa-linkedin fa-3x wow bounceIn" data-wow-delay=".1s"></i>
                 <p>LinkedIn</p>
             </a>
-        </div>
+</div>
             
-        <div class="col-lg-2 col-lg-offset-1 text-center">
+ <div class="col-lg-2 col-lg-offset-1 text-center">
             <a href="https://twitter.com/avi_karn/" target="_blank">
                 <i class="fa fa-twitter fa-3x wow bounceIn" data-wow-delay=".1s"></i>
                 <p>Tweet</p>
             </a>
-        </div>
+ </div>
   
-        <div class="col-lg-2 col-lg-offset-1 text-center">
-            <a href="mailto:akarn@illinois.edu">
+<div class="col-lg-2 col-lg-offset-1 text-center">
+            <a href="mailto:akarn@mail.missouri.edu">
             <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
                 <p>Email</p>
             </a>
-        </div>
-       
-        <div class="col-lg-2 col-lg-offset-1 text-center">
-            <a href="https://www.facebook.com/avi.karn" target="_blank">
-            <i class="fa fa-facebook fa-3x wow bounceIn" data-wow-delay=".1s"></i>
-                <p>Facebook</p>
-            </a>
-        </div>
-        </div>
+ </div>
 
 
 <p><script type="text/javascript" src="//ra.revolvermaps.com/0/0/6.js?i=0rn8vq73z9x&amp;m=7&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=1" async="async"></script></p>
