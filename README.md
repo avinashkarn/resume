@@ -77,8 +77,6 @@ Linux and Windows.
 <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
                 <h2 class="section-heading">Let's Get In Touch!</h2>
-                <hr class="primary">
-                <p>If you have any question, suggestion or comment, please contact me by</p>
 </div>
             
 <div class="col-lg-2 col-lg-offset-1 text-center">
