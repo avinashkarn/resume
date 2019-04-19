@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Resume - Avi Karn, PD)"
+tags: [Avi Karn, Resume]
+
+---
+
 I am a plant quantitative geneticits and computational biologist, and digital agriculture and robotics enthusiast, and an amateur astronomer, painter, online blogging, photography and vivid cook. I have over ten years of research experience in the field of plant breeding, quantitative genetics and high-throughput phenotyping, including, I have developed statistical models to non-destructively phenotype various seed composition using near infrared reflectance spectroscopy (NIRS) and nuclear magnetic resonance (NMR) instruments. I have developed gene specific molecular markers for marker selection studies and prepared RAD Genotype-By-Sequencing libraries for NextGen sequencing, and called SNPs using TASSEL and Sentioen pipeline, and built genetic maps using SNP and haplotype based genetic maps, and conducted joint-linkage QTL mapping and genome wide association studies. I have strong knowledge and experience in conducting big data analysis and visualization especially on a large set of phenotypic and genotypic data in software such as MS Excel, TASSEL, R and SAS and CIRCOS (written in PERL).
 
 ## Education
