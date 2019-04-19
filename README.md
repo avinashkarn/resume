@@ -74,8 +74,7 @@ R, SAS, PERL, HTML, MS Command prompt and Excel.
 
 Linux and Windows.
 
-<div class="container">
-        <div class="row">
+<div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
                 <h2 class="section-heading">Let's Get In Touch!</h2>
                 <hr class="primary">
