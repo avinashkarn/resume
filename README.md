@@ -78,7 +78,6 @@ R, SAS, PERL, HTML, MS Command prompt and Excel.
 
 Linux and Windows.
 
-
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
@@ -115,6 +114,7 @@ Linux and Windows.
             </a>
         </div>
         </div>
+
 
 <p><script type="text/javascript" src="//ra.revolvermaps.com/0/0/6.js?i=0rn8vq73z9x&amp;m=7&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=1" async="async"></script></p>
 
