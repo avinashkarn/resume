@@ -80,25 +80,27 @@ Linux and Windows.
 </div>
             
 <div class="col-lg-2 col-lg-offset-1 text-center">
+            <a href="mailto:akarn@mail.missouri.edu">
+            <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
+                <p>Email</p>
+            </a>
+</div>           
+
+<div class="col-lg-2 col-lg-offset-1 text-center">
             <a href="https://www.linkedin.com/in/avikarn/" target="_blank">
                 <i class="fa fa-linkedin fa-3x wow bounceIn" data-wow-delay=".1s"></i>
                 <p>LinkedIn</p>
             </a>
 </div>
             
- <div class="col-lg-2 col-lg-offset-1 text-center">
+<div class="col-lg-2 col-lg-offset-1 text-center">
             <a href="https://twitter.com/avi_karn/" target="_blank">
                 <i class="fa fa-twitter fa-3x wow bounceIn" data-wow-delay=".1s"></i>
                 <p>Tweet</p>
             </a>
- </div>
+</div>
   
-<div class="col-lg-2 col-lg-offset-1 text-center">
-            <a href="mailto:akarn@mail.missouri.edu">
-            <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s"></i>
-                <p>Email</p>
-            </a>
- </div>
+
 
 
 <p><script type="text/javascript" src="//ra.revolvermaps.com/0/0/6.js?i=0rn8vq73z9x&amp;m=7&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=1" async="async"></script></p>
